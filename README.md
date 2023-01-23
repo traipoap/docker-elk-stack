@@ -1,4 +1,4 @@
-~~~# docker-elk-stack
+~~~# Insides
 ├── logstash
 │   ├── config
 │   │   └── logstash.yml
